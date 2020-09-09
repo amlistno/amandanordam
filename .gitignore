@@ -1,0 +1,9 @@
+
+/*
+!.gitignore
+!wp-content/
+# macOS Files
+.DS_Store
+Thumbs.db
+.cache
+wp-content/themes/twentytwenty/package-lock.json
