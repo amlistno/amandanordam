@@ -1,8 +1,12 @@
-
 /*
 !.gitignore
 !wp-content/
-# macOS Files
+wp-content/uploads
+wp-content/languages
+wp-content/upgrade
+wp-content/ai1wm-backups
+ 
+#macOS Files
 .DS_Store
 Thumbs.db
 .cache
